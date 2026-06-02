@@ -1,4 +1,4 @@
-# TypeBloom
+
 # TypeBloom 🌸
 A cute typing speed trainer with a live keystroke heatmap.
 Built with Java Swing.
